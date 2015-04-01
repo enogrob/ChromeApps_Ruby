@@ -55,7 +55,7 @@ $
 ```
 
 ### 2. Open Chrome with the following url:
-In order to load the `Chrome Apps` for Elixir, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_Ruby` e.g. `Ruby-MRI`, and then repeat that for the other apps.
+In order to load the `Chrome Apps` for Ruby, check `Developer Mode` and press `Load unpacked extension...` to load each App selecting its corresponding directory inside `ChromeApps_Ruby` e.g. `Ruby-MRI`, and then repeat that for the other apps.
 
 ```
 chrome://extensions/

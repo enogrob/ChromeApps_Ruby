@@ -1,0 +1,17 @@
+{
+  "name": "MacRuby",
+  "description": "Access MacRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://macruby.org/"
+    ],
+    "launch": {
+      "web_url": "http://macruby.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

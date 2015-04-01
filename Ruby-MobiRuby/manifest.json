@@ -1,0 +1,17 @@
+{
+  "name": "MobiRuby",
+  "description": "Access MobiRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://mobiruby.org/"
+    ],
+    "launch": {
+      "web_url": "http://mobiruby.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

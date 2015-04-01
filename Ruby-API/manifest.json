@@ -1,0 +1,17 @@
+{
+  "name": "Ruby API",
+  "description": "Access RubyAPI",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubydoc.info/"
+    ],
+    "launch": {
+      "web_url": "http://rubydoc.info/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

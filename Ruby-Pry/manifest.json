@@ -1,0 +1,17 @@
+{
+  "name": "Pry",
+  "description": "Access Pry",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://pryrepl.org/"
+    ],
+    "launch": {
+      "web_url": "http://pryrepl.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

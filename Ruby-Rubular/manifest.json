@@ -1,0 +1,17 @@
+{
+  "name": "Rubular",
+  "description": "Access Rubular",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubular.com/"
+    ],
+    "launch": {
+      "web_url": "http://rubular.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

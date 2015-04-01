@@ -1,0 +1,17 @@
+{
+  "name": "mRuby",
+  "description": "Access mRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.mruby.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.mruby.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

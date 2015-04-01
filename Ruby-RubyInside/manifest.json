@@ -1,0 +1,17 @@
+{
+  "name": "Ruby Inside",
+  "description": "Access Ruby Inside",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubyweekly.com/issues"
+    ],
+    "launch": {
+      "web_url": "http://rubyweekly.com/issues"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

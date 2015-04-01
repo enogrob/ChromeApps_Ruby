@@ -1,0 +1,17 @@
+{
+  "name": "RubyDoc.org",
+  "description": "Access RubyDoc.org",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.ruby-doc.org/"
+    ],
+    "launch": {
+      "web_url":"http://www.ruby-doc.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

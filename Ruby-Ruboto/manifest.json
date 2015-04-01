@@ -1,0 +1,17 @@
+{
+  "name": "Ruboto",
+  "description": "Access Ruboto",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://ruboto.org/index.html"
+    ],
+    "launch": {
+      "web_url": "http://ruboto.org/index.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "RubyMineTV",
+  "description": "Access RubyMineTV",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://tv.jetbrains.net/channel/rubymine"
+    ],
+    "launch": {
+      "web_url": "http://tv.jetbrains.net/channel/rubymine"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

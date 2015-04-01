@@ -1,0 +1,17 @@
+{
+  "name": "Opal",
+  "description": "Acess Opal",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://opalrb.org/"
+    ],
+    "launch": {
+      "web_url": "http://opalrb.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

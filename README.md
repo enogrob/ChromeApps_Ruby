@@ -27,25 +27,14 @@ ChromeApps_Ruby
 ├── Ruby-API
 ├── Ruby-APIdock
 ├── Ruby-Homepage
-├── Ruby-IronRuby
-├── Ruby-MacRuby
-├── Ruby-MagLev
-├── Ruby-MobiRuby
-├── Ruby-Opal
 ├── Ruby-Pry
 ├── Ruby-RVM
-├── Ruby-Rubinius
-├── Ruby-Ruboto
-├── Ruby-Rubular
-├── Ruby-RubyDoc.org
-├── Ruby-RubyFLOW
 ├── Ruby-RubyGems
 ├── Ruby-RubyInside
 ├── Ruby-RubyMine
 ├── Ruby-RubyMineTV
 ├── Ruby-Toolbox
 ├── Ruby-Wiki
-├── Ruby-mruby
 └── images
 
 23 directories, 1 file

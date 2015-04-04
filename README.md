@@ -32,8 +32,6 @@ ChromeApps_Ruby
 ├── Ruby-Rails
 ├── Ruby-RubyGems
 ├── Ruby-RubyInside
-├── Ruby-RubyMine
-├── Ruby-RubyMineTV
 ├── Ruby-Toolbox
 ├── Ruby-Wiki
 └── images

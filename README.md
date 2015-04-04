@@ -29,6 +29,7 @@ ChromeApps_Ruby
 ├── Ruby-Homepage
 ├── Ruby-Pry
 ├── Ruby-RVM
+├── Ruby-Rails
 ├── Ruby-RubyGems
 ├── Ruby-RubyInside
 ├── Ruby-RubyMine

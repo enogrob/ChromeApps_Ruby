@@ -1,0 +1,17 @@
+{
+  "name": "RubyMine",
+  "description": "Access RubyMine",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.jetbrains.com/ruby/webhelp/getting-help.html"
+    ],
+    "launch": {
+      "web_url": "http://www.jetbrains.com/ruby/webhelp/getting-help.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

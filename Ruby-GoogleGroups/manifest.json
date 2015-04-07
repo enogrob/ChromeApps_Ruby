@@ -1,0 +1,17 @@
+{
+  "name": "Rails comp.lang.ruby",
+  "description": "Acess comp.lang.ruby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://groups.google.com/forum/#!forum/comp.lang.ruby"
+    ],
+    "launch": {
+      "web_url": "https://groups.google.com/forum/#!forum/comp.lang.ruby"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "name": "Rails comp.lang.ruby",
-  "description": "Acess comp.lang.ruby",
+  "name": "comp.lang.ruby",
+  "description": "Access comp.lang.ruby",
   "version": "1",
   "manifest_version": 2,
   "app": {

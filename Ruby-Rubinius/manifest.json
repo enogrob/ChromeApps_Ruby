@@ -1,0 +1,17 @@
+{
+  "name": "Rubinius",
+  "description": "Access Rubinius",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubini.us/"
+    ],
+    "launch": {
+      "web_url":"http://rubini.us/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

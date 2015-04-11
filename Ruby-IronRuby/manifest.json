@@ -1,0 +1,17 @@
+{
+  "name": "IronRuby",
+  "description": "Access IronRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.ironruby.net/"
+    ],
+    "launch": {
+      "web_url":"http://www.ironruby.net/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

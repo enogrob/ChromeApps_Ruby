@@ -1,14 +1,14 @@
 {
   "name": "Ruby API",
-  "description": "Access RubyAPI",
+  "description": "Access Ruby API",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://rubydoc.info/"
+      "http://apidock.com/ruby/browse"
     ],
     "launch": {
-      "web_url": "http://rubydoc.info/"
+      "web_url": "http://apidock.com/ruby/browse"
     }
   },
   "icons": {

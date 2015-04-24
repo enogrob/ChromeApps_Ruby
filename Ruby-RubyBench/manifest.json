@@ -1,14 +1,14 @@
 {
-  "name": "Ruby on Rails",
-  "description": "Acess Ruby on Rails",
+  "name": "RubyBench",
+  "description": "Access RubyBench",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://rubyonrails.org/"
+      "http://rubybench.org/"
     ],
     "launch": {
-      "web_url": "http://rubyonrails.org/"
+      "web_url": "http://rubybench.org/"
     }
   },
   "icons": {

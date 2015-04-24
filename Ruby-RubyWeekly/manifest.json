@@ -1,6 +1,6 @@
 {
-  "name": "Ruby Inside",
-  "description": "Access Ruby Inside",
+  "name": "Ruby Weekly",
+  "description": "Access Ruby Weekly",
   "version": "1",
   "manifest_version": 2,
   "app": {

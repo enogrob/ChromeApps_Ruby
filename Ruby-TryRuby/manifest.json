@@ -1,14 +1,14 @@
 {
-  "name": "Ruby",
-  "description": "Access Ruby",
+  "name": "TryRuby",
+  "description": "Access TryRuby",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://apidock.com/ruby/browse"
+      "http://tryruby.org/"
     ],
     "launch": {
-      "web_url": "http://apidock.com/ruby/browse"
+      "web_url": "http://tryruby.org/"
     }
   },
   "icons": {

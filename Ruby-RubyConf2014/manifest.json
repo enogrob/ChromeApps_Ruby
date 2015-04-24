@@ -1,0 +1,17 @@
+{
+  "name": "RubyConf2014",
+  "description": "Access RubyConf2014",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/playlist?list=PLE7tQUdRKcyYajZ5aZlJf1g2u5Boq-jic"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcyYajZ5aZlJf1g2u5Boq-jic"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

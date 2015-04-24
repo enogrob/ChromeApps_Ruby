@@ -22,11 +22,11 @@ drwxr-xr-x   28 enogrob  staff   952B Apr  1 16:35 ChromeApss_Ruby/
 -rw-r--r--    1 enogrob  staff   137B Apr  1 16:24 today_data.yaml
 
 $ tree -L 1 ChromeApps_Ruby/
-ChromeApps_Ruby
+ChromeApps_Ruby/
 ├── README.md
 ├── Ruby-API
-├── Ruby-APIdock
 ├── Ruby-Awesome
+├── Ruby-Bundler
 ├── Ruby-GoogleGroups
 ├── Ruby-Homepage
 ├── Ruby-IronRuby
@@ -36,25 +36,26 @@ ChromeApps_Ruby
 ├── Ruby-Opal
 ├── Ruby-Pry
 ├── Ruby-RVM
-├── Ruby-Rails
 ├── Ruby-Rubinius
 ├── Ruby-Ruboto
 ├── Ruby-Rubular
+├── Ruby-RubyBench
+├── Ruby-RubyCentral
+├── Ruby-RubyConf2014
 ├── Ruby-RubyDoc.org
 ├── Ruby-RubyFLOW
 ├── Ruby-RubyGems
-├── Ruby-RubyInside
 ├── Ruby-RubyMine
 ├── Ruby-RubyMineTV
+├── Ruby-RubyWeekly
+├── Ruby-RubyWikipedia
 ├── Ruby-Toolbox
-├── Ruby-Wiki
+├── Ruby-TryRuby
 ├── Ruby-mruby
 └── images
 
-26 directories, 1 file
+29 directories, 1 file
 
-[TODAY (master)]$
-:
 $
 ```
 
